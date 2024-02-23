@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/activity_prueba.iml" filepath="$PROJECT_DIR$/.idea/activity_prueba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/activity_prueba.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/activity_prueba.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/activity_prueba.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/activity_prueba.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/activity_prueba.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/activity_prueba.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/activity_prueba.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/activity_prueba.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

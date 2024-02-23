@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable contacto
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id button
+id button2
+id constraintLayout
+id imageView
+id imageView4
+id imageView6
+id imageView8
+id textView
+id textView2
+id textView3
+id textView4
+layout activity_editar
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string BotonAnterior
+string BotonEditar
+string app_name
+string tv1
+style Base.Theme.Activity_prueba
+style Theme.Activity_prueba
+xml backup_rules
+xml data_extraction_rules

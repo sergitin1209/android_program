@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="BotonAnterior">Anterior</string>
+    <string name="BotonEditar">Editar</string>
+    <string name="app_name">activity_prueba</string>
+    <string name="tv1">Editar contacto</string>
+    <style name="Base.Theme.Activity_prueba" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Activity_prueba" parent="Base.Theme.Activity_prueba"/>
+</resources>
